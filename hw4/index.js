@@ -7,10 +7,10 @@ const HOSTED_URLS = {
 };
 
 const examples = {
-  'example1': 'Alice was beginning to get very tired of sitting by her sister on the bank.',
-  'example2': 'Buda-Pesth seems a wonderful place.',
-  'example3': 'Scepticism was as much the result of knowledge, as knowledge is of scepticism.',
-  'example4': 'Shoot all the bluejays you want, if you can hit them, but remember it is a sin to kill a mockingbird.'
+  'example1': 'I understand it was a very handsome letter, indeed.',
+  'example2': 'Forty, replied Sir Basil, forty, and no more.',
+  'example3': 'My love , it will be scarcely a separation',
+  'example4': 'And Shem and Japheth took a garment, and laid it upon both their shoulders'
 };
 
 function status(statusText) {
