@@ -7,10 +7,10 @@ const HOSTED_URLS = {
 };
 
 const examples = {
-  'example1': 'I understand it was a very handsome letter, indeed.',
+  'example1': 'She had no visible friends but what had been acquired at Highbury, and was now just returned from a long visit in the country to some young ladies who had been at school there with her.',
   'example2': 'Forty, replied Sir Basil, forty, and no more.',
-  'example3': 'My love , it will be scarcely a separation',
-  'example4': 'And Shem and Japheth took a garment, and laid it upon both their shoulders'
+  'example3': 'I have not had so many opportunities of estimating the minuter propensities of his mind, his inclinations and tastes, as you have; but I have the highest opinion in the world of his goodness and sense.',
+  'example4': 'And Shem and Japheth took a garment, and laid it upon both their shoulders.'
 };
 
 function status(statusText) {
